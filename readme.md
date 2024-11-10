@@ -106,4 +106,4 @@ Esto es un proyecto de aprendizaje personal, ante cualquier sugerencia, tengo el
 
 ## 🏅 Créditos y Agradecimientos
 
-Creado con ❤️ por ÁlvaroVázquez González. Agradezco a todos los recursos en línea, tutoriales y foros que han contribuido a volverme loco con C++.
+Creado con ❤️ por Álvaro Vázquez González. Agradezco a todos los recursos en línea, tutoriales y foros que han contribuido a volverme loco con C++.
